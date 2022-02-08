@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVVMSample", "MVVMSample\MVVMSample.csproj", "{79B078E2-5B44-4261-AF75-DC3302313065}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Debug|x64.ActiveCfg = Debug|x64
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Debug|x64.Build.0 = Debug|x64
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Release|x64.ActiveCfg = Release|x64
+		{79B078E2-5B44-4261-AF75-DC3302313065}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C6C217-F307-4F39-AADD-1C9F568007F4}
+	EndGlobalSection
+EndGlobal
